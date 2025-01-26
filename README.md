@@ -23,7 +23,6 @@ Movie Finder is a sleek and user-friendly application for discovering and search
    ```bash
    git clone https://github.com/matei19989/React-semi-fullstack.git
    cd movie-finder
-   
 Install dependencies:
 
 bash
@@ -37,7 +36,6 @@ plaintext
 Copy
 Edit
 VITE_TMDB_API_KEY=your_tmdb_api_key
-(Optional) Configure your Appwrite backend if using user analytics.
 Run the development server:
 
 bash
@@ -50,6 +48,7 @@ Open the app in your browser at http://localhost:5173.
 Search Functionality: Enter a movie title to instantly fetch results.
 Trending Section: Displays movies fetched from your backend or an external API.
 Fallback Handling: Displays appropriate messages for missing movie titles or API errors.
+
 📸 Screenshots
 Home Page
 
