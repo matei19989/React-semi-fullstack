@@ -23,6 +23,7 @@ Movie Finder is a sleek and user-friendly application for discovering and search
    ```bash
    git clone https://github.com/matei19989/React-semi-fullstack.git
    cd movie-finder
+   
 Install dependencies:
 
 bash
