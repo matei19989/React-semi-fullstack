@@ -32,6 +32,7 @@ npm install
 Set up your environment variables:
 
 Create a .env file in the project root and add your TMDb API key:
+
 plaintext
 Copy
 Edit
